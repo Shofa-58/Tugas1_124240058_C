@@ -1,1 +1,1 @@
-# Tugas1_124240058_C
+# Tugas_Praktikum_Algoritma
